@@ -4,6 +4,7 @@ ADDED from C:\Users\91883\OneDrive\Documents\react projects\two-screens-demo\and
 INJECTED from C:\Users\91883\OneDrive\Documents\react projects\two-screens-demo\android\app\src\main\AndroidManifest.xml:1:1-27:12
 INJECTED from C:\Users\91883\OneDrive\Documents\react projects\two-screens-demo\android\app\src\main\AndroidManifest.xml:1:1-27:12
 INJECTED from C:\Users\91883\OneDrive\Documents\react projects\two-screens-demo\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-async-storage_async-storage] C:\Users\91883\OneDrive\Documents\react projects\two-screens-demo\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-community_masked-view] C:\Users\91883\OneDrive\Documents\react projects\two-screens-demo\node_modules\@react-native-community\masked-view\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-biometrics] C:\Users\91883\OneDrive\Documents\react projects\two-screens-demo\node_modules\react-native-biometrics\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-12:12
 MERGED from [:react-native-gesture-handler] C:\Users\91883\OneDrive\Documents\react projects\two-screens-demo\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
@@ -149,6 +150,8 @@ uses-sdk
 INJECTED from C:\Users\91883\OneDrive\Documents\react projects\two-screens-demo\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\91883\OneDrive\Documents\react projects\two-screens-demo\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\91883\OneDrive\Documents\react projects\two-screens-demo\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-async-storage_async-storage] C:\Users\91883\OneDrive\Documents\react projects\two-screens-demo\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] C:\Users\91883\OneDrive\Documents\react projects\two-screens-demo\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] C:\Users\91883\OneDrive\Documents\react projects\two-screens-demo\node_modules\@react-native-community\masked-view\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] C:\Users\91883\OneDrive\Documents\react projects\two-screens-demo\node_modules\@react-native-community\masked-view\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-biometrics] C:\Users\91883\OneDrive\Documents\react projects\two-screens-demo\node_modules\react-native-biometrics\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
